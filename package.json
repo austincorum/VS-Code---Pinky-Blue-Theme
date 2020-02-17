@@ -1,0 +1,21 @@
+{
+    "name": "001",
+    "displayName": "Pinky Blue",
+    "description": "The PinkyBlue theme is a real eye-catcher and designed for minimalists and tech enthusiasts.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pinky Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pinky Blue-color-theme.json"
+            }
+        ]
+    }
+}
